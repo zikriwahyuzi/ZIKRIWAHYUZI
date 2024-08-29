@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZIKRIWAHYUZI
-- 👀 I’m interested in Computer Network
+- 👀 I’m interested in Intellegent system
 - 🌱 I’m currently learning Data Science & Artificial Intellegent
 - 💞️ I’m looking to collaborate on Python beginner program with data science and AI
 - 📫 How to reach me zikriwahyuzi@gmail.com
